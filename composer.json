@@ -1,0 +1,16 @@
+{
+    "name": "2020/ipt10-builder_factory2",
+    "description": "\\",
+    "autoload": {
+        "psr-4": {
+            "Builder2": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "not-todae",
+            "email": "echon.davidaaron@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
